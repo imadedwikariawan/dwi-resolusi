@@ -1,0 +1,3 @@
+RESOLUSI
+- Bisa konsisten belajar Git & GitHub
+- Belajar 2 video setiap hari tentang Git WPU
