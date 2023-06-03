@@ -1,6 +1,7 @@
 RENCANA KONTEN
 
 -Ingin membuat video dwimade
+  * Memang benar mampu untuk membuatnya?
 -Ingin membuat youtube
+  * Sepertinya membuat konten Youtube tidak perlu
 -Ingin membuat bahasa Pemprograman
--Harus menjadi orang baik
