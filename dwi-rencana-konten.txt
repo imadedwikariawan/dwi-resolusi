@@ -1,6 +1,8 @@
 RENCANA KONTEN
 
 -Ingin membuat video dwimade
+  * Video apa yang ingin dibuat?
+  * Sumber materinya seperti apa?
 -Ingin membuat youtube
 -Ingin membuat bahasa Pemprograman
 -Harus menjadi orang baik
